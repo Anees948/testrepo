@@ -1,0 +1,24 @@
+h1{
+    color: rgb(15, 58, 197);
+    text-align: center;
+}
+#a1{
+    color: rgb(201, 160, 28);
+    text-align: right;
+}
+.c1{
+    color: rgb(114, 250, 166);
+    text-align: left;
+    /* left and start same */
+    /* right and end same */
+}
+#d1{
+    background-color: brown;
+}
+#d2{
+    background-color: darkgreen;
+    color: azure
+}
+/* tag selector */
+/* id selector # */
+/* class selector . */

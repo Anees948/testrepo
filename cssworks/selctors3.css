@@ -1,0 +1,18 @@
+div :nth-child(1){
+    color: crimson;
+}
+div :nth-child(2){
+    color: darkviolet;
+}
+div :nth-child(3){
+    color: maroon;
+}
+body{
+    background-image:url(./images/person-holds-a-book-over-a-stack-and-turns-the-page.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+/* pseudo selector */
+/* a:hover */

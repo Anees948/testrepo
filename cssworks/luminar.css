@@ -1,0 +1,18 @@
+h1{
+    color: rgb(144, 31, 189);
+}
+span{
+    color: violet;
+}
+#l1{
+    color: red;
+}
+button{
+    background-color: rgb(88, 10, 119);
+    color: white;
+    border-radius: 20px;
+}
+button:hover{
+    background-color: white;
+    color: rgb(88, 10, 119);
+}

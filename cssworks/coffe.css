@@ -1,0 +1,104 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@100&family=Lobster&family=Luxurious+Roman&family=The+Nautigal:wght@400;700&display=swap');
+
+body{
+    font-family: 'Orbitron', sans-serif;
+    margin: 0px;
+}
+i{
+    color: white;
+    margin-left: 20px;
+    
+}
+i:hover{
+    color: rgb(236, 189, 118);
+}
+.coffe{
+    font-family: 'Kings', cursive;
+    font-size: 50px;
+    color: white;
+    margin-left: 150px;
+}
+span:hover{
+    color: rgb(236, 189, 118);
+}
+.nav{
+    background-color: rgb(58, 47, 47);
+    text-decoration: none;
+    position: fixed;
+    width: 100%;
+    height: 75px;
+    top: 0px;
+    left: 0px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    padding-left: 80px;
+}
+a:hover{
+    color: rgb(236, 189, 118);
+}
+.link{
+    float: right;
+    margin: 30px;
+    padding-left: 400px;
+}
+.main{
+    background-image: url("./images/1318023.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 600px;
+    margin-top: 75px;
+    margin: 0px;
+    left: 0px;
+}
+.m1{
+    color: white;
+    font-family: 'Caveat', cursive;
+    font-size: 25px;
+    position: absolute;
+    margin-left: 488px;
+    margin-top: 220px;
+    width: 500px;
+    height: 100px;
+}
+.h1{
+    color: rgb(59, 43, 38);
+    text-shadow: 5px 5px 2px #2F435A;
+    text-align: center;
+    margin: -10px;
+    padding: 30px;
+    letter-spacing: 4px;
+}
+h1{
+    
+    font-size: 30px;
+    font-family: 'Bebas Neue', cursive;
+}
+h1:hover{
+    color: rgb(168, 35, 35);
+}
+
+.h{
+    height: 400px;
+    margin-top: 0px;
+    margin: 100px;
+    margin-bottom: 0px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+.p1{
+    font-size: 18px;
+    font-weight: 500;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-family: 'Great Vibes', cursive;
+}
+.fot{
+    
+}
+
+
+

@@ -1,0 +1,120 @@
+h3{
+    color: rgba(247, 246, 244, 0.884);
+    text-align: center;
+    
+}
+body{
+    background-color: black;
+}
+.col{
+    height: 100px;
+    width: 80px;
+    border: black 2px solid;
+    
+}
+.col-1{
+    background-color: rgb(57, 54, 78);
+    margin-left: 559px;
+    
+}
+.col-2{
+    background-color: rgb(3, 70, 70);
+    margin-left: 651px;
+    margin-top: -104px;
+}
+.col-3{
+    background-color:rgb(19, 109, 39) ;
+    margin-left: 743px;
+    margin-top: -104px;
+}
+.col-4{
+    background-color: rgb(9, 155, 9);
+    margin-left: 834px;
+    margin-top: -104px;
+}
+.col-5{
+    background-color: rgb(226, 226, 222);
+    margin-left: 925px;
+    margin-top: -104px;
+}
+.col-6{
+    background-color: rgb(233, 101, 14);
+    margin-left: 468px;
+    margin-top: 33px;
+}
+.col-7{
+    background-color: rgb(226, 30, 105);
+    margin-left: 560px;
+    margin-top: -104px;
+}
+.col-8{
+    background-color: violet;
+    margin-left: 652px;
+    margin-top: -104px;
+}
+.col-9{
+    background-color: blueviolet;
+    margin-left: 743px;
+    margin-top: -104px;
+}
+.col-10{
+    background-color: rgb(94, 22, 211);
+    margin-left: 834px;
+    margin-top: -104px;
+}
+.col-11{
+    background-color: blueviolet;
+    margin-left: 926px;
+    margin-top: -104px;
+}
+.col-12{
+    background-color: rgb(87, 81, 124);
+    margin-left: 1018px;
+    margin-top: -104px;
+}
+.col-13{
+    background-color: darkturquoise;
+    margin-left: 375px;
+    margin-top: 31px;
+}
+.col-14{
+    background-color: rgb(170, 243, 152);
+    margin-left: 466px;
+    margin-top: -104px;
+}
+.col-15{
+    background-color: rgb(226, 153, 69);
+    margin-left: 558px;
+    margin-top: -104px;
+}
+.col-16{
+    background-color:rgb(189, 11, 94);
+    margin-left: 651px;
+    margin-top: -104px;
+}
+.col-17{
+    background-color: rgb(59, 14, 14);
+    margin-left: 742px;
+    margin-top: -104px;
+}
+.col-18{
+    background-color: cyan;
+    margin-left: 834px;
+    margin-top: -104px;
+}
+.col-19{
+    background-color: darkcyan;
+    margin-left: 926px;
+    margin-top: -104px;
+}
+.col-20{
+    background-color: blueviolet;
+    margin-left: 1018px;
+    margin-top: -104px;
+
+}
+.col-21{
+    background-color: rgb(104, 15, 104);
+    margin-left: 1110px;
+    margin-top: -104px;
+}
